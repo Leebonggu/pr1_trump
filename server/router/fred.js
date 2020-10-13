@@ -6,7 +6,7 @@ const axios = require('axios');
 const {
   getData,
 } = require('../utils/fred');
-
+console.log(11);
 const pythonOptions= {
   pythonPath: '/Library/Frameworks/Python.framework/Versions/3.6/bin/python3'
 }
